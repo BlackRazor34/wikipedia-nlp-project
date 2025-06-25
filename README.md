@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="wiki.png" width="600"/>
+</p>
 
 # Wikipedia Metin Ön İşleme ve Görselleştirme Projesi
 
@@ -93,13 +96,15 @@ Bu kısma, kodunuzun ürettiği görsellerin ekran görüntülerini ekleyebilirs
 ### Kelime Frekansları Barplot Grafiği
 *Frekansı 8000'den fazla olan kelimelerin görseli.*
 
-![Barplot Görseli](path/to/barplot_image.png)
+<p align="center">
+  <img src="output.png" width="600"/>
+</p>
 
 ### Kelime Bulutu (WordCloud)
 *İşlenmiş metindeki en popüler kelimelerin görsel temsili.*
 
-![WordCloud Görseli](path/to/wordcloud_image.png)
+<p align="center">
+  <img src="wordcloud.png" width="600"/>
+</p>
 
 ---
-
-Umarım bu içerikler GitHub projenizi daha profesyonel ve anlaşılır bir şekilde sunmanıza yardımcı olur. Başarılar!
